@@ -23,7 +23,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<pre>
+<br>
+<br>
 
 ![GitHub followers](https://img.shields.io/github/followers/Harman-12?label=Followers&style=social)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Harman-12)
@@ -32,13 +33,15 @@
 <img align="center" alt="Harman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Harman-12&show_icons=true&theme=algolia" />
 </p>
 
-<pre>
+<br>
+<br>
 
 <p align="center">
   <img align="center" alt="Harman's Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harman-12&hide=TeX&layout=compact&theme=algolia" />
 </p>
 
-<pre>
+<br>
+<br>
 
 <p align="center"><a href="https://github.com/Harman-12" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href=https://www.linkedin.com/in/harmanjot-singh-94012a1a9" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
