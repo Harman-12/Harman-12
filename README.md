@@ -29,7 +29,16 @@
 ![GitHub followers](https://img.shields.io/github/followers/Harman-12?label=Followers&style=social)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Harman-12)
 
+<p align="center">
+<img align="center" alt="Harman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Harman-12&show_icons=true&theme=algolia" />
+</p>
 
+<br>
+<br>
+
+<p align="center">
+  <img align="center" alt="Harman's Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harman-12&hide=TeX&layout=compact&theme=algolia" />
+</p>
 
 <br>
 <br>
