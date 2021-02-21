@@ -1,4 +1,7 @@
-### Hi there, I'm Harmanjot Singh <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+### Hi there, I'm Harmanjot Singh<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
+## Pradhan Mantri Rashtriya Bal Puraskar 2021 Winner in Innovation -
+## National Highest Civilian Honor for Children
 
 ## ⚡ Coding Technologies used by me:
 
