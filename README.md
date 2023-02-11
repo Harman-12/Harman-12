@@ -5,6 +5,8 @@
 
 ## My Apps on Play Store: ![Click Here](https://play.google.com/store/apps/dev?id=7010063185920210322](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Fstore-badges%2Fgoogle-play-badge&psig=AOvVaw015ELH00QZQ0KSJxN790ic&ust=1676190429066000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLDxpIqGjf0CFQAAAAAdAAAAABAI)
 
+<img alt="Play" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white](https://play.google.com/store/apps/dev?id=7010063185920210322](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Fstore-badges%2Fgoogle-play-badge&psig=AOvVaw015ELH00QZQ0KSJxN790ic&ust=1676190429066000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLDxpIqGjf0CFQAAAAAdAAAAABAI" />
+
 ## ⚡ Coding Technologies used by me:
 
 <p>
